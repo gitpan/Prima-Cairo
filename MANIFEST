@@ -16,6 +16,7 @@ examples/test.pl
 examples/wall_texture.jpg
 t/01_load.t
 t/02_paint.t
+t/03_pixels.t
 t/98_pod.t
 META.yml                                 Module YAML meta-data (added by MakeMaker)
 META.json                                Module JSON meta-data (added by MakeMaker)
